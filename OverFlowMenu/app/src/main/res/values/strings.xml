@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OverFlowMenu</string>
+
+    <string name="strRed">Red</string>
+    <string name="strGreen">Green</string>
+    <string name="strYellow">Yellow</string>
+    <string name="tvInstructions">Please select a color from the overflow menu, to change the screen background color.</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
