@@ -4,3 +4,4 @@ Collection of simple apps following the blog https://thenewboston.com/videos.php
 ###practice 1: deals with activity lifecycle
 ###practice 2: deals with event handlers and listeners
 ###swiperdiaper : deals with gestures
+###MasterFlow : deads with master flow. //TODO : Fix url displays
