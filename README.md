@@ -8,3 +8,4 @@ Collection of simple apps following the blog https://thenewboston.com/videos.php
 ###OverView Menu : practice project implementing overview menu
 ###Transition : practice app for transition using transitionManager
 ###Broadcast : contains 2 projects. SendBroadcast sends a broadcast msg. ReceiveBroadcast receives a broadcast and shows a toast msg
+###Intent : practice project for displaying intents and passing values between activities
