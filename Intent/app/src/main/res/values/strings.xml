@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="apples">Apples!</string>
+    <string name="oranges">Go to Oranges</string>
+    <string name="title_activity_oranges">Oranges</string>
+    <string name="orangeText">Oranges!</string>
+    <string name="orangeButton">Go to Apples</string>
+</resources>
